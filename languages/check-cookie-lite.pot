@@ -1,0 +1,78 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Check Cookie Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-22 14:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: front.php:51
+msgid "Accept"
+msgstr ""
+
+#: admin.php:73
+msgid "Accept button label"
+msgstr ""
+
+#: admin.php:74
+msgid "Buttons class"
+msgstr ""
+
+#. Name of the plugin
+msgid "Check Cookie Lite"
+msgstr ""
+
+#: admin.php:70
+msgid "Check cookie message"
+msgstr ""
+
+#: admin.php:75
+msgid "Container background-color"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/RomainPetiot/check-cookie-lite"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.romainpetiot.com"
+msgstr ""
+
+#: admin.php:72
+msgid "More information label"
+msgstr ""
+
+#: admin.php:71
+msgid "More information link"
+msgstr ""
+
+#: admin.php:61
+msgid "Setting Check Cookie Lite"
+msgstr ""
+
+#. Description of the plugin
+msgid "Tester si l'utilisateur accepte les cookie celon la réglemetation CNIL"
+msgstr ""
+
+#: admin.php:76
+msgid "Text color"
+msgstr ""
+
+#: front.php:29
+msgid ""
+"We use cookies to guarantee you the best experience on our site.<br />\n"
+"\t\t\t\t\tBy continuing your navigation, we will consider that you accept "
+"the use of cookies"
+msgstr ""
+
+#: front.php:47
+msgid "What the law says ?"
+msgstr ""
